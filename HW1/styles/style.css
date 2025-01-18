@@ -1,0 +1,58 @@
+.Text1 {
+    color: #272F3A;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Euclid Circular B', sans-serif;
+    font-weight: lighter;
+    margin-top: 2%;
+}
+
+.Text2 {
+    color: #002B6B;
+    font-size: 72px;
+    letter-spacing: 5%;
+    text-align: center;
+    font-family: 'Montserrat Light', sans-serif;
+    font-weight: lighter;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.img {
+    width: 20%;
+    height: 20%;
+    border-radius: 4%;
+    margin-top: 5%;
+}
+
+.img1 {
+    position: absolute;
+    width: 14%;
+    height: 3%;
+    top: 4%;
+    left: 5%;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.item1 {
+    align-self: flex-start;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.container3 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: space-evenly;
+    flex-wrap: wrap;
+    gap: 5%;
+}

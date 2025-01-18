@@ -1,0 +1,22 @@
+.title {
+    color: blue;
+    font-size: 48px;
+    font-family: 'Euclid Circular B', sans-serif;
+}
+
+.para {
+    color: red;
+    font-size: 25px;
+    font-family: 'Euclid Circular B', sans-serif;
+}
+
+.img {
+    width: 350px;
+    height: 350px;
+    margin-bottom: 25px;
+}
+
+.but {
+    font-family: 'Euclid Circular B', sans-serif;
+    font-size: 25px;
+}
