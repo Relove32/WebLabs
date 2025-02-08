@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+    color: #002B6B;
+    font-size: 48px;
+    font-family: 'Euclid Circular B', sans-serif;
+}
+
+.para {
+    text-align: center;
+    color: #272F3A;
+    font-size: 25px;
+    font-family: 'Euclid Circular B', sans-serif;
+}
+
+.images-panel {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    border-radius: 5%;
+    width: 80%;
+}
