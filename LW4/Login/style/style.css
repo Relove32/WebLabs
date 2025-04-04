@@ -1,0 +1,82 @@
+.title {
+    font: 700 140px/100px "Golos UI", sans-serif;
+    color: #222222;
+    letter-spacing: -1.5px;
+    position: absolute;
+    top: -160px;
+    left: -105px;
+}
+
+.text {
+    font: 700 15px/18px "Golos UI", sans-serif;
+    color: #222222;
+    font-weight: normal;
+}
+
+.text-email {
+    font: 700 13px/16px "Golos UI", sans-serif;
+    color: #222222;
+    letter-spacing: -0, 08px;
+    color: #808080;
+    font-weight: normal;
+}
+
+.image {
+    max-width: 100%;
+}
+
+.border-input {
+    display: block;
+    width: 319px;
+    border: none;
+    background-color: #F2F3F5;
+    border-radius: 10px;
+    padding: 13px 12px;
+    font: 400 15px/1.2 "Golos UI", sans-serif;
+    letter-spacing: -0.15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.border-continue {
+    display: block;
+    margin: auto;
+    align-items: center;
+    width: 343px;
+    border: none;
+    background-color: #222222;
+    border-radius: 10px;
+    padding: 13px 12px;
+    color: #FFFFFF;
+    font: 400 16px/1.2 "Golos UI", sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+}
+
+.logination {
+    margin-left: 107px;
+}
+
+.block-email {
+    margin-bottom: 16px;
+}
+
+.block-password {
+    position: relative;
+    margin-bottom: 32px;
+}
+
+.password-icon {
+    position: absolute;
+    top: 33px;
+    right: 12px;
+}
+
+.image-title {
+    position: relative;
+}
