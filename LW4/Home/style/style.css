@@ -5,9 +5,15 @@
 .icons {
     display: flex;
     flex-direction: column;
+    border: 1px solid #F4F4F4;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+}
+
+.ico-first {
     margin-top: 40px;
-    border-width: 5px;
-    border-color: #222222;
+    margin-bottom: 16px;
 }
 
 .ico-one {

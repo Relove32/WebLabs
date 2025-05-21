@@ -1,0 +1,32 @@
+[
+  {
+    "user-id": 1,
+    "likes": 2,
+    "description": "POPa",
+    "date": "12.03.99",
+    "images-path": [
+      "images/Photo.png",
+      "images/Photo.png",
+      "images/Photo.png",
+      "images/Photo.png",
+      "images/Photo.png",
+      "images/Photo.png",
+      "images/Photo.png"
+    ]
+  },
+  {
+    "user-id": 2,
+    "likes": 3,
+    "description": "FAFFA",
+    "date": "988 year",
+    "images-path": [
+      "images/Photo1.png",
+      "images/Photo.png",
+      "images/Photo.png",
+      "images/Photo.png",
+      "images/Photo.png",
+      "images/Photo.png",
+      "images/Photo.png"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Konstantin",
+    "description": "Tung Tung Tung Tung Tung Tung Tung Tung Tung Sahur",
+    "ava": "images/Avatar1.png",
+    "password": "12345",
+    "email": "myau@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Artem",
+    "description": "Tralalelo Tralala",
+    "ava": "images/Avatar2.png",
+    "password": "1234",
+    "email": "mur@gmail.com"
+  }
+]
