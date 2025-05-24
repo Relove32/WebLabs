@@ -11,16 +11,32 @@
     border-bottom: none;
 }
 
-.ico-first {
+.icons__first {
     margin-top: 40px;
     margin-bottom: 16px;
 }
 
-.ico-one {
+.icons__one {
     margin-bottom: 16px;
 }
 
-.acc-name {
+.main {
+    display: block;
+    width: 100%;
+    margin-left: 30%;
+    margin-top: 3%;
+}
+
+.account {
+    display: flex;
+    align-items: center;
+}
+
+.account__image {
+    max-width: 100%;
+}
+
+.account__name {
     font: 500 14px "Golos UI", sans-serif;
     color: #222222;
     letter-spacing: -0, 15px;
@@ -28,7 +44,37 @@
     margin-left: 10px;
 }
 
-.small-text {
+.account__ico {
+    margin-left: 318px;
+}
+
+.post__img_num {
+    position: relative;
+}
+
+.post__ico-num {
+    position: absolute;
+    border: none;
+    background-color: #222222;
+    opacity: 40%;
+    border-radius: 20px;
+    width: 44px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    bottom: 434px;
+    left: 414px;
+}
+
+.ico-num__text {
+    font: 400 15px/18px "Golos UI", sans-serif;
+    font-weight: normal;
+    color: #FFFFFF;
+    letter-spacing: -0, 15px;
+    margin-left: 10px;
+}
+
+.small_text {
     font: 700 15px "Golos UI", sans-serif;
     color: #222222;
     letter-spacing: -0, 15px;
@@ -47,61 +93,11 @@
     margin-top: 16px;
 }
 
-.img-num {
-    position: relative;
-}
-
-.ico-img-num {
-    position: absolute;
-    border: none;
-    background-color: #222222;
-    opacity: 40%;
-    border-radius: 20px;
-    width: 44px;
-    height: 24px;
-    display: flex;
-    align-items: center;
-    bottom: 434px;
-    left: 414px;
-}
-
-.text-img-num {
-    font: 400 15px/18px "Golos UI", sans-serif;
-    font-weight: normal;
-    color: #FFFFFF;
-    letter-spacing: -0, 15px;
-    margin-left: 10px;
-}
-
-.main {
-    display: block;
-    width: 100%;
-    margin-left: 30%;
-    margin-top: 3%;
-}
-
-.image {
-    max-width: 100%;
-}
-
-.account {
-    display: flex;
-    align-items: center;
-}
-
-.acc-ico {
-    margin-left: 318px;
-}
-
-.post {
-    margin-top: 16px;
-}
-
-.ico-love {
+.emoji__ico_love {
     margin-left: 12px;
 }
 
-.text-love {
+.emoji__text_love {
     font: 400 15px/18px "Golos UI", sans-serif;
     color: #222222;
     font-weight: normal;
@@ -109,7 +105,11 @@
     margin-left: 3px;
 }
 
-.post-text {
+.post {
+    margin-top: 16px;
+}
+
+.post_text {
     font: 400 15px/18px "Golos UI", sans-serif;
     color: #222222;
     font-weight: normal;
@@ -118,7 +118,7 @@
     margin-top: 16px;
 }
 
-.text-time {
+.text_time {
     font: 700 14px "Golos UI", sans-serif;
     color: #222222;
     letter-spacing: -0, 15px;
@@ -127,6 +127,6 @@
     margin-top: 8px;
 }
 
-.post-second {
+.post_second {
     margin-top: 36px;
 }
